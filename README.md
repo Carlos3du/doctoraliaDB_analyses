@@ -1,7 +1,7 @@
 # Análize do Dataset do Doctoralia-BR 
 
 Trabalho feito na disciplina de probabilidade e estatística do curso de Ciência da Computação. O tabalho tem como objetivo analisar
-os dados de um dataset do Doctoralia-BR e significa-los utilizando conceitos vistos em aulas da disciplina em questão.
+os dados de um dataset do Doctoralia-BR e significa-los utilizando conceitos vistos em aulas da disciplina em questão
 <br><br>
 
 ## 🗃️ Tecnologias Utilizadas
